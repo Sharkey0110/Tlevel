@@ -1,6 +1,5 @@
 #IMPORT
 
-from tkinter import *
 import json
 import random
 
