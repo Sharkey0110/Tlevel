@@ -1,5 +1,4 @@
 
-#Shout out max/markus
 import random
 import json
 
