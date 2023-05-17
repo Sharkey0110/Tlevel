@@ -1,5 +1,5 @@
 Functions
-
+#Testing Merge requests
 def fileupdate():
     #Reloads the file so the new data can be read, allows program to do several actions without needing
     #to be reloaded manually
