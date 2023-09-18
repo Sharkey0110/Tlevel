@@ -1,0 +1,1 @@
+{'0000001': {'Name': 'Superdrill', 'Department': 'DIY', 'Location': 'R4', 'Price': 19.99, 'Amount': 20}, '0000002': {'Name': 'Fitbit', 'Department': 'Fitness', 'Location': 'H7', 'Price': 260.0, 'Amount': 500}, '0000003': {'Name': 'Nails', 'Department': 'DIY', 'Location': 'Y6', 'Price': 1.99, 'Amount': 683}}
